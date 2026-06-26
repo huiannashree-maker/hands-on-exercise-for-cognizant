@@ -1,0 +1,6 @@
+D:\cognizant\week2\Entity Framework core 8.0\Lab 4DataInsertionProject\obj\Debug\net10.0\Lab 4DataInsertionProject.csproj.AssemblyReference.cache
+D:\cognizant\week2\Entity Framework core 8.0\Lab 4DataInsertionProject\obj\Debug\net10.0\Lab 4DataInsertionProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\cognizant\week2\Entity Framework core 8.0\Lab 4DataInsertionProject\obj\Debug\net10.0\Lab 4DataInsertionProject.AssemblyInfoInputs.cache
+D:\cognizant\week2\Entity Framework core 8.0\Lab 4DataInsertionProject\obj\Debug\net10.0\Lab 4DataInsertionProject.AssemblyInfo.cs
+D:\cognizant\week2\Entity Framework core 8.0\Lab 4DataInsertionProject\obj\Debug\net10.0\Lab 4DataInsertionProject.csproj.CoreCompileInputs.cache
+D:\cognizant\week2\Entity Framework core 8.0\Lab 4DataInsertionProject\obj\Debug\net10.0\Lab 4DataInsertionProject.sourcelink.json
