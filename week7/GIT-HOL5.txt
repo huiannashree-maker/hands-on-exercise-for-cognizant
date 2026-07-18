@@ -1,0 +1,5 @@
+# Pull and Push
+git pull origin master
+git push origin master
+# Verify status
+git status

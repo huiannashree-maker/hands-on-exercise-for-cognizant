@@ -1,0 +1,8 @@
+# Create log files
+touch app.log
+mkdir log
+# Create .gitignore and add *.log and log/
+echo "*.log" >> .gitignore
+echo "log/" >> .gitignore
+git add .gitignore
+git commit -m "Added .gitignore to ignore logs"

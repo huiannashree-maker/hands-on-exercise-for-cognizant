@@ -1,0 +1,10 @@
+# Configuration
+git config --global user.name "username"
+git config --global user.email "username@cognizant.com"
+
+# Repository Initialization
+git init GitDemo
+cd GitDemo
+echo "Welcome to the version control" >> welcome.txt
+git add welcome.txt
+git commit -m "Initial commit with welcome.txt"

@@ -1,0 +1,15 @@
+# Branch setup
+git checkout -b GitWork
+echo "Branch data" > hello.xml
+git commit -am "Commit in GitWork branch"
+
+# Master setup
+git checkout master
+echo "Master data" > hello.xml
+git commit -am "Commit in master"
+
+# Merge & Resolve
+git merge GitWork # Triggers conflict
+# Open P4Merge to resolve conflict manually
+git add hello.xml
+git commit -m "Resolved merge conflict"
